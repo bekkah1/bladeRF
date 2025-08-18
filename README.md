@@ -43,6 +43,4 @@ subdirectories for more specific options.
 [FPGA image]: https://www.nuand.com/fpga.php (Pre-built FPGA images)
 [firmware image]: https://www.nuand.com/fx3.php (Pre-built firmware binaries)
 [bladeRF-cli]: ./host/utilities/bladeRF-cli (bladeRF Command Line Interface)
-[bladeRF wiki]: https://github.com/nuand/bladeRF/wiki (bladeRF wiki)
- 
-I need sponsor plus consultant from my work I still have a family to feed
+[bladeRF wiki]: https://github.com/nuand/bladeRF/wiki (bladeRF wifi

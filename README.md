@@ -33,7 +33,7 @@ subdirectories for more specific options.
 
 | Option                            | Description
 | --------------------------------- |:--------------------------------------------------------------------------|
-| -DENABLE_FX3_BUILD=\<ON/OFF\>     | Enables building the FX3 firmware. Default: OFF                           |                                   |
+| -DENABLE_FX3_BUILD=\<ON/OFF\>     | Enables building the FX3 firmware. Default: on                          |                                   |
 | -DENABLE_HOST_BUILD=\<ON/OFF\>    | Enables building the host library and utilities overall. Default: ON      |
 
 [firmware_common]: ./firmware_common (Host-Firmware common files)
